@@ -6,7 +6,7 @@ This project demonstrates a Multi-Tier Web Application deployed on AWS.
 
 ### Architecture
 
-![Architecture](screenshots/architecture-diagram.png)
+<img width="1536" height="1024" alt="01_architecture-diagram png" src="https://github.com/user-attachments/assets/9aa85ea5-b76f-4339-9568-32012bbb081b" />
 
 ---
 
